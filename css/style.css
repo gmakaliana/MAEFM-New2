@@ -98,8 +98,30 @@
     text-decoration-color: black;
 }
 
+.moreItems{
+    text-decoration-style: none;
+}
 
+/* Styling business link */
 
+.businesspage:hover{
+    color: blue;
+}
 
+#whatsapp{
+    color:#25D366 ;
+}
+
+#email{
+    color:#0077cc ;
+}
+
+#phone{
+    color:#008000 ;
+}
+
+#facebook{
+    color: #316FF6;
+}
 
 
